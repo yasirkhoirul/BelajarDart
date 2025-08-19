@@ -6,5 +6,4 @@ void main(){
   stdout.write("masukkan umur anda :");
   final umur = int.parse(stdin.readLineSync()!);
   print("nama anda adalah $name dan umur anda adalah $umur");
-
 }
